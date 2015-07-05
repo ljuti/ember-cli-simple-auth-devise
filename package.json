@@ -16,7 +16,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/simplabs/ember-cli-simple-auth-devise"
+    "url": "git://github.com/ljuti/ember-cli-simple-auth-devise"
   },
   "homepage": "https://github.com/simplabs/ember-cli-simple-auth-devise",
   "dependencies": {
